@@ -1,0 +1,23 @@
+{
+  "name": "indonesian-profanity",
+  "version": "1.0.0",
+  "description": "A library to filter Indonesian profanity words.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "profanity",
+    "bad",
+    "words",
+    "indonesian",
+    "swear",
+    "words"
+  ],
+  "author": "Rakha",
+  "license": "ISC"
+}
